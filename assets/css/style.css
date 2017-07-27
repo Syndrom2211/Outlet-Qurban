@@ -1,0 +1,93 @@
+.bg1{
+    color: white;
+}
+.h1{
+    font-size: 36pt;
+}
+
+.p1{
+    font-size: 14pt;
+}
+
+.mark1{
+    color: black;
+    background-color: #5eccc0;
+}
+.table1{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.table2{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.tr1{
+    font-size: 14pt;
+}
+
+.bg_modalbody{
+    background-color:;
+    font-color: white;
+}
+
+.input1{
+    background-color: white;
+    color: black;
+    font-size: 12pt;
+}
+
+.label1{
+    font-size: 11pt;
+    font-color: white;
+}
+
+.table3{
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.li1{
+    color: white;
+}
+
+.btn-pesan{
+    background-color: #009933;
+    color: white;
+}
+
+.input_cari{
+    background-color: white;
+    color: black;
+}
+
+.btn_tidak{
+    background-color: #ff3333;
+    color: white;
+}
+
+.btn_tempat{
+    background-color: #4d4dff;
+    color: white;
+}
+
+.btn_depot{
+    background-color: #4d79ff;
+    color: white;
+}
+
+.bg2{
+    background-color: white;
+}
+
+.bg3{
+    background-color:#ffaa80;
+}
